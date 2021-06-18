@@ -17,7 +17,7 @@ I am currently a master student majoring computer vision and remote sensing at <
 <!-- * 2021.03 One paper is accepted to **CVPR 2021**. -->
   
 ### Experiments:
-* **Alibaba-Alimama-Advertising Department ** 2021.06-Present
+* **Alibaba-Alimama-Advertising Department ** 2021.07-Present
   Develop Intern
   Server development （C/C++）
 
