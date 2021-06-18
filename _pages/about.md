@@ -18,12 +18,12 @@ I am currently a master student majoring computer vision and remote sensing at <
   
 ### Experiments:
 * **Alibaba-Alimama-Advertising Department** 2021.07-Present  
-  Develop Intern  
-  Server development （C/C++）
+  C/C++ Develop Intern  
+  Server Development
 
 ### Educations:
 * B.E. degree in Geography Information Science. 09/2015 - 06/2019  
-  China University of Mining and Technology, Changsha, China.
+  China University of Mining and Technology, Xuzhou, China.
 * M.S. degree in Photogrammetry and Remote Sensing. 09/2019 - Present  
   Wuhan University, Wuhan, China.
 
